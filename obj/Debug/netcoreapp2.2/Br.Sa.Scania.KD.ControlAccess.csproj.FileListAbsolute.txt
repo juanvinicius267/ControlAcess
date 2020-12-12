@@ -1,0 +1,14 @@
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\bin\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.deps.json
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\bin\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.runtimeconfig.json
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\bin\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.runtimeconfig.dev.json
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\bin\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.dll
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.csprojAssemblyReference.cache
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.RazorAssemblyInfo.cache
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.RazorAssemblyInfo.cs
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.AssemblyInfoInputs.cache
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.AssemblyInfo.cs
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.RazorTargetAssemblyInfo.cache
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\bin\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.pdb
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.dll
+C:\Users\ssbjvq\source\repos\Br.Sa.Scania.KD.ControlAccess\obj\Debug\netcoreapp2.2\Br.Sa.Scania.KD.ControlAccess.pdb
